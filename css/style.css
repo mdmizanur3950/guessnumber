@@ -1,0 +1,14 @@
+body {
+  font-family: 'Jost', sans-serif;
+  background: linear-gradient(to right,
+#0f2027,#203a43,#2c5364);
+color: #e9ebee;
+}
+
+.container {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
